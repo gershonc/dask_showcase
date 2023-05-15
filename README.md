@@ -1,2 +1,2 @@
-# dask_showcase
+# DASK Showcase
 Showcasing the latest DASK capabilities 
